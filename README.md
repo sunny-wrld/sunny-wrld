@@ -17,7 +17,7 @@
 💡 **Tecnologias e Ferramentas:**
 
 - Linguagens: Java, Python, C
-- Backend: Node.js, Express
+- Backend: Node.js
 - Banco de Dados: MySQL
 - Ferramentas: Git, GitHub, VS Code
 

@@ -6,7 +6,7 @@ Olá, meu nome é Felipe Murilo Ribeiro!
 
 ---
 
-🔗 Conecte-se comigo:
+**🔗 Conecte-se comigo:**
 
 - GitHub: [sunny-wrld](https://github.com/sunny-wrld)
 - LinkedIn: [Felipe Murilo Ribeiro](https://www.linkedin.com/in/felipe-murilo-477005354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
@@ -14,7 +14,7 @@ Olá, meu nome é Felipe Murilo Ribeiro!
 
 ---
 
-💡 Tecnologias e Ferramentas:
+**💡 Tecnologias e Ferramentas:**
 Atualmente em processo de aprendizado nas seguintes tecnologias:
 
 - Linguagens: Java, Python, C, JavaScript
@@ -24,6 +24,6 @@ Atualmente em processo de aprendizado nas seguintes tecnologias:
 
 ---
 
-📈 Estatísticas do GitHub:
+**📈 Estatísticas do GitHub:**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-wrld&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e" alt="Linguagens mais usadas">

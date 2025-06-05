@@ -14,21 +14,22 @@
 
 ---
 
-📌 **Projetos em destaque:**
-
-- [Best-README-Template](https://github.com/sunny-wrld/Best-README-Template): Um modelo de README para aprimorar a apresentação de projetos no GitHub.
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-wrld&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e" alt="Linguagens mais usadas">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75184965/256262527-2f7c80cb-416b-41fa-b21b-d9e080ae32a1.png" alt="Felipe Murilo Ribeiro's GitHub Stats" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
 💡 **Tecnologias e Ferramentas:**
 
 - Linguagens: Java, Python, C
-- Backend: Node.js, Express
+- Backend: Node.js
 - Banco de Dados: MySQL
 - Ferramentas: Git, GitHub, VS Code
-
----
-
-📈 **Estatísticas do GitHub:**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-wrld&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e" alt="Linguagens mais usadas">

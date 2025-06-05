@@ -15,6 +15,7 @@ Olá, meu nome é Felipe Murilo Ribeiro!
 ---
 
 **💡 Tecnologias e Ferramentas:**
+
 Atualmente em processo de aprendizado nas seguintes tecnologias:
 
 - Linguagens: Java, Python, C, JavaScript

@@ -17,7 +17,7 @@
 💡 **Tecnologias e Ferramentas:**
 
 - Linguagens: Java, Python, C, JavaScript
-- Backend/Frontend: Node.js, React, Django
+- Backend: Node.js, Django
 - Banco de Dados: MySQL
 - Ferramentas: Git, GitHub, VS Code
 

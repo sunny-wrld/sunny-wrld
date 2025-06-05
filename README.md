@@ -2,14 +2,14 @@
 
 ### Olá, meu nome é Felipe Murilo Ribeiro!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Felipe%20Murilo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=sunny-wrld&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ---
 
 🔗 **Conecte-se comigo:**
 
 - GitHub: [sunny-wrld](https://github.com/sunny-wrld)
-- LinkedIn: [Felipe Murilo Ribeiro Ribeiro](https://www.linkedin.com/in/felipe-murilo-477005354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+- LinkedIn: [Felipe Murilo Ribeiro](https://www.linkedin.com/in/felipe-murilo-477005354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - E-mail: [asmagic111@gmail.com](mailto:asmagic111@gmail.com)
 
 ---

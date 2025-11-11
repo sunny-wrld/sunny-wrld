@@ -17,8 +17,7 @@ Olá, sou um estudante de SI.
 
 Atualmente em processo de aprendizado nas seguintes tecnologias:
 
-- Linguagens: Java, Python, C, JavaScript
-- Backend: Node.js, Django
+- Linguagens: Java, Python, C
 - Banco de Dados: MySQL
 - Ferramentas: Git, GitHub, VS Code
 

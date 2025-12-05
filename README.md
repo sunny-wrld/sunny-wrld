@@ -25,4 +25,10 @@ Atualmente em processo de aprendizado nas seguintes tecnologias:
 
 **📈 Estatísticas do GitHub:**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-wrld&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e" alt="Linguagens mais usadas">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-wrld&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e" 
+    alt="Linguagens mais usadas"
+  />
+</p>
+
